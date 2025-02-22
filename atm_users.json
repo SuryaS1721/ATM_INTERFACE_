@@ -1,0 +1,11 @@
+{
+    "123456": {
+        "pin": "7890",
+        "balance": 9300.0,
+        "transactions": [
+            "Withdrew: $200",
+            "Withdrew: $500.0",
+            "Deposited: $5000.0"
+        ]
+    }
+}
